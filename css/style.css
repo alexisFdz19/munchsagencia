@@ -1597,6 +1597,22 @@ header {
 }
 
 @media only screen and (max-width: 480px) {
+
+    .logoParallax{
+
+        width: 80%;
+        margin-bottom: 20px;
+    
+    }
+
+    .white-text {
+        color: #000000;
+        font-size: 18px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 900;
+        color: #10161A;
+    }
+
   #portfolio [class*='col-xs'] {
 		  width:100%;
 	}
