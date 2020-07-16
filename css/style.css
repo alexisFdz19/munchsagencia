@@ -477,10 +477,10 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         transition: 0.2s all;
     }
     .main-nav>li.active {
-        border-left: 6px solid #6195FF;
+        border-left: 6px solid #571B59;
     }
     .main-nav li a:hover, .main-nav li a:focus {
-        background-color: #6195FF;
+        background-color: #571B59;
         color: #FFF;
         opacity: 1;
     }
